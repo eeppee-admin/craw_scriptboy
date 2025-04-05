@@ -1,0 +1,34 @@
+POST https://e-hentai.org/g/2231376/a7584a5932/
+Content-Type: application/json
+
+{
+  "method": "gdata",
+  "gidlist": [
+      [2231376,"a7584a5932"]
+  ],
+  "namespace": 1
+}
+
+### https://api.e-hentai.org/api.php
+POST https://api.e-hentai.org/api.php
+Content-Type: application/json
+
+{
+  "method": "gdata",
+  "gidlist": [
+      [2231376,"a7584a5932"]
+  ],
+  "namespace": 1
+}
+
+### RAPIDAPI： e8a0cab8femsh32ae72fd76831c8p1a1993jsnd685db6b7c3a
+GET https://porn-image1.p.rapidapi.com/?type=pussy HTTP/1.1
+X-Rapidapi-Key: e8a0cab8femsh32ae72fd76831c8p1a1993jsnd685db6b7c3a
+X-Rapidapi-Host: porn-image1.p.rapidapi.com
+Host: porn-image1.p.rapidapi.com
+
+###
+GET /api/v1/search HTTP/1.1
+X-Rapidapi-Key: e8a0cab8femsh32ae72fd76831c8p1a1993jsnd685db6b7c3a
+X-Rapidapi-Host: papi-porn-api.p.rapidapi.com
+Host: papi-porn-api.p.rapidapi.com
