@@ -28,7 +28,14 @@ X-Rapidapi-Host: porn-image1.p.rapidapi.com
 Host: porn-image1.p.rapidapi.com
 
 ###
-GET /api/v1/search HTTP/1.1
+GET https://papi-porn-api.p.rapidapi.com/api/v1/search HTTP/1.1
 X-Rapidapi-Key: e8a0cab8femsh32ae72fd76831c8p1a1993jsnd685db6b7c3a
 X-Rapidapi-Host: papi-porn-api.p.rapidapi.com
 Host: papi-porn-api.p.rapidapi.com
+
+
+###
+GET https://girls-nude-image.p.rapidapi.com/?type=pussy HTTP/1.1
+X-Rapidapi-Key: e8a0cab8femsh32ae72fd76831c8p1a1993jsnd685db6b7c3a
+X-Rapidapi-Host: girls-nude-image.p.rapidapi.com
+Host: girls-nude-image.p.rapidapi.com
